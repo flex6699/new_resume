@@ -29,7 +29,7 @@ const Navbar = (props) => {
             <a href="#skills">Skills</a>
           </li>
           <li>
-            <a href="https://drive.google.com/file/d/1xUtIfPZ3gn0YO78A2QQvlBofgouAL4HN/view?usp=sharing">
+            <a href="https://drive.google.com/file/d/19xoeruz27QRm6tdRw_P1X-dBS5olmaAM/view?usp=sharing">
               Resume
             </a>
           </li>
